@@ -1,0 +1,4 @@
+neuron 7.7.2
+interviews 19.0 (NEURON's GUI tools; not sure if it's needed, I had it installed)
+python3-numpy
+pytohn3-matplotlib
